@@ -22,9 +22,9 @@ class About extends Component {
             <img className="profile-pic" src={profilepic} alt="Nordic Giant Profile Pic" />
           </div>
           <div className="nine columns main-col">
-            <h2>About Me</h2>
+            <h2>About Us</h2>
 
-            <p>{bio}</p>
+            <p>We are a team of web developers working on technologies like React, Ruby on Rails, Wordpress, Laravel, Html, Css, Javascript</p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
@@ -32,21 +32,14 @@ class About extends Component {
                   <span>{name}</span>
                   <br />
                   <span>
-                    {street}
+                    Muhammadi Street Qainchi 
                     <br />
-                    {city} {state}, {zip}
+                    Lahore Punjab, 54000
                   </span>
                   <br />
-                  <span>{phone}</span>
+                  <span>03070112487</span>
                   <br />
-                  <span>{email}</span>
-                </p>
-              </div>
-              <div className="columns download">
-                <p>
-                  <a href={resumeDownload} className="button">
-                    <i className="fa fa-download"></i>Download Resume
-                  </a>
+                  <span>hamzabhatti9922@gmail.com</span>
                 </p>
               </div>
             </div>

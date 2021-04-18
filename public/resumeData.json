@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Info Web Solutions",
-    "description":"We are a team of web developers working on technologies like React, Ruby on Rails, Wordpress, Laravel, Html, Css, Javascript",
+    "description":"Leading the new Digital World",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -77,31 +77,31 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Ruby on Rails",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"React Js",
+        "level":"90%"
+      },
+      {
+        "name":"React Native",
+        "level":"90%"
+      },
+      {
+        "name":"Laravel",
+        "level":"90%"
+      },
+      {
+        "name":"Wordpress",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Javascript",
+        "level":"80%"
       },
       {
-        "name":"JAVA",
+        "name":"HTML",
         "level":"80%"
       }
     ]
@@ -109,46 +109,46 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"Remote Medical",
         "category":"My Travel Blog for my post-university travels",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://remotemedical.com"
       },
       {
-        "title":"Fury Fighting Gear",
+        "title":"Aviary Online data sharing",
         "category":"(offline now) A fighting gear company I started",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://www.avairy.com"
       },
       {
-        "title":"Original Thai Food",
+        "title":"Get Internet Online",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://getinternetonline.com"
       },
       {
-        "title":"Resume Website",
+        "title":"My Jackalope",
         "category":"A React based resume website template",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://myjackalope.com/"
       },
       {
         "title":"Smirkspace",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://getinternetonline.com"
       },
       {
         "title":"Canadian Wanderlust",
         "category":"My Travel Blog for my post-university travels",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://myjackalope.com/"
       },
       {
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
         "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://getinternetonline.com"
       },
       {
         "title":"Original Thai Food",
