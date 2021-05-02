@@ -12,7 +12,7 @@ class Portfolio extends Component {
       let projectImage = "images/portfolio/" + projects.image;
       let url = projects.url;
       return (
-        <a href={url}>
+        <a href={url} target="_blank">
           <div key={id++} className="columns portfolio-item">
             <div className="item-wrap">
               <Zmage alt={projects.title} src={projectImage} />
@@ -27,7 +27,7 @@ class Portfolio extends Component {
       <section id="portfolio">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Check Out Some of Our Works.</h1>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {projects}
             </div>

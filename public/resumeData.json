@@ -110,75 +110,27 @@
     "projects": [
       {
         "title":"Remote Medical",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"Medical available on google map",
         "image":"01.jpg",
         "url":"https://remotemedical.com"
       },
       {
         "title":"Aviary Online data sharing",
-        "category":"(offline now) A fighting gear company I started",
+        "category":"Sharing your data with people on internet",
         "image":"02.jpg",
         "url":"https://www.avairy.com"
       },
       {
         "title":"Get Internet Online",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"Cable network providers",
         "image":"03.jpg",
         "url":"https://getinternetonline.com"
       },
       {
         "title":"My Jackalope",
-        "category":"A React based resume website template",
+        "category":"Best Insurance carrier providers in California",
         "image":"04.jpg",
         "url":"https://myjackalope.com/"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"https://getinternetonline.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://myjackalope.com/"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"https://getinternetonline.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }

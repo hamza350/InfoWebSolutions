@@ -24,7 +24,7 @@ class About extends Component {
           <div className="nine columns main-col">
             <h2>About Us</h2>
 
-            <p>We are a team of web developers working on technologies like React, Ruby on Rails, Wordpress, Laravel, Html, Css, Javascript</p>
+            <p>We have teams of dedicated and highly talented engineers with an interestingly proficient mix of professional backgrounds enabling our clients to fortify their models and to take their business to new heights.We offer advanced solutions for Web and Mobile apps, Web Design, Customization, Support and Maintenance</p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
